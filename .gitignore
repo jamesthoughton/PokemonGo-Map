@@ -1,4 +1,5 @@
 *.pyc
 .idea
 credentials.json
+credentials.json.BAK
 exports/*.sh
