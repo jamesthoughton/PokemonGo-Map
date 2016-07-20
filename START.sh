@@ -1,2 +1,3 @@
 #!/bin/bash
-python2 example.py -a ptc -u $POKE_USER -p $POKE_PASS -l "$POKE_LOC" -st 6
+echo "python2 example.py -a ptc -u $POKE_USER -p **** -l "$POKE_LOC" -st $POKE_RAD --port $POKE_PORT"
+python2 example.py -a ptc -u $POKE_USER -p $POKE_PASS -l "$POKE_LOC" -st $POKE_RAD --port $POKE_PORT
