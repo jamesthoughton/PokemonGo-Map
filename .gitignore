@@ -2,4 +2,4 @@
 .idea
 credentials.json
 credentials.json.BAK
-exports/*.sh
+exports/**/*.sh
